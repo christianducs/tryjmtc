@@ -1,0 +1,10 @@
+{
+  "vehicles": { "active": 0, "inactive": 0 },
+  "vehicleAssignments": { "assigned": 0, "unassigned": 0 },
+  "inventoryNotifications": { "outOfStock": 0 },
+  "pendingMaintenance": { "overdue": 0, "dueSoon": 0 },
+  "issues": { "open": 0, "overdue": 0 },
+  "renewals": { "overdue": 0, "dueSoon": 0 },
+  "vehicleStatus": { "active": 0, "inactive": 0, "inShop": 0, "outOfService": 0 },
+  "toolStatus": { "inService": 0, "outOfService": 0, "disposed": 0, "missing": 0 }
+}
